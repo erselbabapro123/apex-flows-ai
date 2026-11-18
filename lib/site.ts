@@ -7,8 +7,8 @@ export const site = {
   description:
     "Apex Flows AI; işletmeler için premium web siteleri, AI destekli otomasyon sistemleri ve marka kimliği tasarlayan modern dijital çözüm stüdyosudur.",
   // Uluslararası formatta, başında + olmadan: 905XXXXXXXXX
-  whatsapp: "905000000000",
-  email: "hello@apexflows.ai",
+  whatsapp: "905425343883",
+  email: "erselflowai@gmail.com",
   instagram: "apexflows.ai",
   location: "Türkiye · Uzaktan, her şehirde",
   responseTime: "Mesai saatlerinde 2 saat içinde dönüş",
